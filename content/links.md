@@ -2,6 +2,11 @@
 title: "Links"
 ---
 
+My projects:
+
+- [profesia jobs](http://jreisinger.github.io/profesia-jobs)
+- [quotes](http://quotes.reisinge.net)
+
 Pearls I found on the Internet:
 
 - [the saddest phone in Berlin](http://perlmonks.org/?node_id=324763)
