@@ -1,4 +1,4 @@
-baseURL = "http://jreisinger.github.io/hugo/" # Hostname (and path) to the root.
+baseURL = "http://jreisinger.github.io/" # Hostname (and path) to the root.
 title = "reisinge" # Site title.
 theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code.
