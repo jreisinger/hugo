@@ -40,12 +40,20 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     url = "http://perlmonks.org/?node_id=6364;user=reisinge"
 [[params.social]]
     name = "Twitter"
-    weight = 2
+    weight = 4
     url = "https://twitter.com/JozefReisinger/"
 [[params.social]]
     name = "LinkedIn"
-    weight = 3
+    weight = 5
     url = "https://sk.linkedin.com/in/jozefreisinger"
+[[params.social]]
+    name = "Blog"
+    weight = 6
+    url  = "https://jreisinger.blogspot.com/"
+[[params.social]]
+    name = "Wiki"
+    weight = 7
+    url  = "http://wiki.reisinge.net/"
 
 # Menu links
 [[menu.main]]
@@ -60,11 +68,3 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Links"
     weight = 3
     url  = "/links/"
-[[menu.main]]
-    name = "Blog"
-    weight = 4
-    url  = "https://jreisinger.blogspot.com/"
-[[menu.main]]
-    name = "Wiki"
-    weight = 5
-    url  = "http://wiki.reisinge.net/"

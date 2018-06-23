@@ -2,12 +2,6 @@
 title: "CV"
 ---
 
-Web: [jreisinger.github.io](http://jreisinger.github.io)
-
-Email: <jozef.reisinger@gmail.com>
-
-Phone: +421 948 525 610
-
 I have been doing IT related stuff for companies of varied sizes and types for
 10+ years. My experience is mainly in systems administration and IT security. I
 have touched several infrastructures and written quite a few scripts/programs.
@@ -15,8 +9,7 @@ I try to stay on top of new technologies and practices and use them when/where
 appropriate. I am not bad at managing smaller projects and teams. I can
 communicate well with technical and non-technical folks.
 
-Selected employment history
----------------------------
+### Selected employment history
 
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
@@ -66,8 +59,7 @@ at Slovak Telekom [Bratislava, 2004 - 2006, 2011 - 2013]
   networking devices.
 * Managing small (up to 4 people) audit teams.
 
-Certificates
-------------
+### Certificates
 
 LPIC-2: Linux Professional Institute Certification - Advanced Level
 Administration [2012 - 2017]
@@ -78,8 +70,7 @@ CISSP: Certified Information Systems Security Professional [2011 - 2014]
 
 CCNA: Cisco Certified Network Associate [2006 - 2009]
 
-Formal Education
-----------------
+### Formal Education
 
 Cisco Networking Academy - Four semester study in computer systems networking
 and telecommunications [2005 - 2006]
@@ -88,8 +79,7 @@ University of Economics [1998 - 2004]
 
 Bilingual high-school, Slovak - Italian [1993 - 1998]
 
-Technologies and Tools
-----------------------
+### Technologies and Tools
 
 I am familiar with and have used the following technologies professionally:
 
@@ -124,3 +114,11 @@ Various
 * security: nmap, tcpdump, OSSEC, Metasploit
 * VCS, CI/CD: git, GitHub, GitLab, Travis
 * communication: Slack
+
+### Contact info
+
+Web: [jreisinger.github.io](http://jreisinger.github.io)
+
+Email: <jozef.reisinger@gmail.com>
+
+Phone: +421 948 525 610
