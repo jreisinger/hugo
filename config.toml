@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [params] # theme parameters
     author = "Jozef Reisinger" # Author's name.
     info = "Human being, husband, father, DevOps" # Author's job title or info.
-    description = "John Doe's personal website" # Site description.
+    description = "Jozef Reisinger's personal website" # Site description.
     keywords = "Linux,programming,security,sysadmin,devops,personal" # Site keywords.
 
     disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
@@ -31,6 +31,14 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 1
     url = "https://github.com/jreisinger/"
 [[params.social]]
+    name = "StackExchange"
+    weight = 2
+    url = "https://stackexchange.com/users/1010742/jreisinger"
+[[params.social]]
+    name = "The Monastery"
+    weight = 3
+    url = "http://perlmonks.org/?node_id=6364;user=reisinge"
+[[params.social]]
     name = "Twitter"
     weight = 2
     url = "https://twitter.com/JozefReisinger/"
@@ -41,14 +49,22 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "https://jreisinger.blogspot.com/"
-[[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "/about/"
 [[menu.main]]
     name = "CV"
-    weight = 3
+    weight = 2
     url = "/cv/"
+[[menu.main]]
+    name = "Links"
+    weight = 3
+    url  = "/links/"
+[[menu.main]]
+    name = "Blog"
+    weight = 4
+    url  = "https://jreisinger.blogspot.com/"
+[[menu.main]]
+    name = "Wiki"
+    weight = 5
+    url  = "http://wiki.reisinge.net/"
