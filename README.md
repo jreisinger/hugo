@@ -1,10 +1,12 @@
 Source files and [Hugo](https://gohugo.io/) stuff for https://github.com/jreisinger/jreisinger.github.io
 
-Edit
+`public` is a submodule pointing to https://github.com/jreisinger/jreisinger.github.io. See `.gitmodules`.
+
+Usual workflow
 
 * Modify `content` or `config.toml`
-* Check locally - `hugo server`
-* Commit changes
+* [Check locally `hugo server`]
+* Commit and push changes
 * `./deploy.sh`
 
 More
