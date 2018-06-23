@@ -1,4 +1,4 @@
-Source files and [Hugo](https://gohugo.io/) stuff for jreisinger.github.io
+Source files and [Hugo](https://gohugo.io/) stuff for https://github.com/jreisinger/jreisinger.github.io
 
 Edit
 
