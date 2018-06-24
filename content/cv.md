@@ -1,5 +1,6 @@
 ---
 title: "CV"
+date:  "2018-06-24"
 ---
 
 I have been doing IT related stuff for companies of varied sizes and types for

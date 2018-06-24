@@ -1,5 +1,6 @@
 ---
 title: "About"
+date:  "2018-06-23"
 ---
 
 I am interested, among other things, in universal machines for information storage and manipulation. To be a bit more specific, I dabble in system administration, security and programming.
