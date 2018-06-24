@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Jozef Reisinger" # Author's name.
-    info = "Human being, husband, father, DevOps" # Author's job title or info.
+    info = "Human being" # Author's job title or info.
     description = "Jozef Reisinger's personal website" # Site description.
     keywords = "Linux,programming,security,sysadmin,devops,personal" # Site keywords.
 
@@ -38,14 +38,6 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "The Monastery"
     weight = 3
     url = "http://perlmonks.org/?node_id=6364;user=reisinge"
-[[params.social]]
-    name = "Twitter"
-    weight = 4
-    url = "https://twitter.com/JozefReisinger/"
-[[params.social]]
-    name = "LinkedIn"
-    weight = 5
-    url = "https://sk.linkedin.com/in/jozefreisinger"
 [[params.social]]
     name = "Blog"
     weight = 6
