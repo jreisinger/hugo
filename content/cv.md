@@ -103,7 +103,7 @@ Networking
 
 Various
 
-* configuration management: Ansible
+* configuration, orchestration: Ansible, OpenStack Heat
 * monitoring: Nagios, Icinga, Zabbix, Prometheus
 * big data and logs: Splunk, syslog-ng, Graylog, Grafana
 * databases: MySQL, Oracle
