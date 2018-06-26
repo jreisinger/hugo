@@ -6,7 +6,7 @@ date:  "2018-06-24"
 My projects:
 
 - [Profesia Jobs](http://jreisinger.github.io/profesia-jobs)
-- [quotes](http://quotes.reisinge.net)
+- [quote](http://quote.reisinge.net)
 
 Pearls I found on the Internet:
 
