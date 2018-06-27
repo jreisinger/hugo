@@ -41,7 +41,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[params.social]]
     name = "Q&A"
     weight = 4
-    url = "https://stackexchange.com/users/1010742/jreisinger"
+    url = "https://stackoverflow.com/users/1039320/jreisinger"
 [[params.social]]
     name = "Monastery"
     weight = 5
