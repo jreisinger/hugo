@@ -27,25 +27,25 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 # Social links
 [[params.social]]
-    name = "Github"
+    name = "Code"
     weight = 1
     url = "https://github.com/jreisinger/"
 [[params.social]]
-    name = "StackExchange"
-    weight = 2
-    url = "https://stackexchange.com/users/1010742/jreisinger"
-[[params.social]]
-    name = "The Monastery"
-    weight = 3
-    url = "http://perlmonks.org/?node_id=6364;user=reisinge"
-[[params.social]]
     name = "Blog"
-    weight = 6
-    url  = "https://jreisinger.blogspot.com/"
+    weight = 2
+    url  = "https://github.com/jreisinger/blog"
 [[params.social]]
     name = "Wiki"
-    weight = 7
+    weight = 3
     url  = "http://wiki.reisinge.net/"
+[[params.social]]
+    name = "Q&A"
+    weight = 4
+    url = "https://stackexchange.com/users/1010742/jreisinger"
+[[params.social]]
+    name = "Monastery"
+    weight = 5
+    url = "http://perlmonks.org/?node_id=6364;user=reisinge"
 
 # Menu links
 [[menu.main]]
