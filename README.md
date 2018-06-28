@@ -2,8 +2,7 @@ Source files and [Hugo](https://gohugo.io/) stuff for https://github.com/jreisin
 
 Usual workflow
 
-* Modify `content` or `config.toml`
-* [Check locally `hugo server`]
+* Modify `content` or `config.toml` (check locally - `hugo server`)
 * `./deploy.sh`
 * Commit and push changes
 
