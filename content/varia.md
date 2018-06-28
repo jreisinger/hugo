@@ -1,5 +1,5 @@
 ---
-title: "Links"
+title: "Varia"
 date:  "2018-06-24"
 ---
 

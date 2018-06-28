@@ -1,5 +1,5 @@
 baseURL = "http://jreisinger.github.io/" # Hostname (and path) to the root.
-title = "reisinge" # Site title.
+title = "/home/reisinge" # Site title.
 theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code.
 
@@ -13,14 +13,14 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [params] # theme parameters
     author = "Jozef Reisinger" # Author's name.
     info = "Human being" # Author's job title or info.
-    description = "Jozef Reisinger's personal website" # Site description.
+    description = "Jozef Reisinger's home page" # Site description.
     keywords = "Linux,programming,security,sysadmin,devops,personal" # Site keywords.
 
     disqusShortname = "jreisinger" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
-    hideCopyright = false
+    hideCopyright = true
 
     # Custom CSS
 	  custom_css = []
@@ -57,9 +57,9 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 2
     url = "/cv/"
 [[menu.main]]
-    name = "Links"
+    name = "Varia"
     weight = 3
-    url  = "/links/"
+    url  = "/varia/"
 # [[menu.main]]
 #    name = "Thoughts"
 #    weight = 4
