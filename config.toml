@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     description = "Jozef Reisinger's personal website" # Site description.
     keywords = "Linux,programming,security,sysadmin,devops,personal" # Site keywords.
 
-    disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
+    disqusShortname = "jreisinger" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
@@ -60,3 +60,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Links"
     weight = 3
     url  = "/links/"
+[[menu.main]]
+    name = "Thoughts"
+    weight = 4
+    url  = "/thoughts/"
