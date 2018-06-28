@@ -118,10 +118,4 @@ Various
 * VCS, CI/CD: git, GitHub, GitLab, Travis
 * chatops: Slack
 
-### Contact info
-
-Web: [jreisinger.github.io](http://jreisinger.github.io)
-
-Email: <jozef.reisinger@gmail.com>
-
-Phone: +421 948 525 610
+[jreisinger.github.io](http://jreisinger.github.io) | <jozef.reisinger@gmail.com> | +421 948 525 610
