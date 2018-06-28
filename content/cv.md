@@ -39,7 +39,8 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 
 * Taking care of Linux based infrastructure (email system, web servers, file
   servers, DNS) and networking.
-* Building tools and automating tasks via Perl, Bash and Ansible (e.g. wrote backup and virtual machines monitoring software using MySQL and Perl Dancer).
+* Building tools and automating tasks via Perl, Bash and Ansible.
+* Wrote software for monitoring backups and virtual machines using MySQL and Perl Dancer.
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
 
 System Administrator
@@ -83,7 +84,7 @@ Bilingual high-school, Slovak - Italian [1993 - 1998]
 
 ### Technologies and Tools
 
-I am familiar (to varying levels) with and have used the following technologies professionally:
+(I have used the following stuff professionally)
 
 Operating systems
 
