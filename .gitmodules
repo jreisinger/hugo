@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:jreisinger/jreisinger.github.io.git
 	branch = master
+[submodule "themes/temple"]
+	path = themes/temple
+	url = https://github.com/aos/temple.git
