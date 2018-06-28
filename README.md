@@ -1,13 +1,13 @@
-Source files and [Hugo](https://gohugo.io/) stuff for https://github.com/jreisinger/jreisinger.github.io
-
-`public` is a submodule pointing to https://github.com/jreisinger/jreisinger.github.io. See `.gitmodules`.
+Source files and [Hugo](https://gohugo.io/) stuff for https://github.com/jreisinger/jreisinger.github.io.
 
 Usual workflow
 
 * Modify `content` or `config.toml`
 * [Check locally `hugo server`]
-* Commit and push changes
 * `./deploy.sh`
+* Commit and push changes
+
+`public` is a submodule pointing to https://github.com/jreisinger/jreisinger.github.io. See `.gitmodules`.
 
 More
 
