@@ -1,7 +1,15 @@
 ---
 title: "Links"
-date:  "2018-06-24"
 ---
+
+Buy me [stuff](https://amzn.com/w/23WE353M6O53S) if you want to make me happy :-). I take [photos](https://www.flickr.com/photos/jozrei) from time to time.
+And some of my (free time) software projects:
+
+- [quotes](http://quotes.reisinge.net)
+- [Profesia Jobs](http://jreisinger.github.io/profesia-jobs)
+- [App::Monport](https://metacpan.org/pod/App::Monport)
+- [lsfat](https://github.com/jreisinger/sys/blob/master/lsfat)
+- [checkprocs](https://github.com/jreisinger/checkprocs)
 
 Pearls I found on the Internet:
 
