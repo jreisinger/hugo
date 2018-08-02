@@ -15,8 +15,8 @@ communicate well with technical and non-technical folks.
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
-* Building and operating infrastructure services (WAF, DNS, containers) the DevOps way.
-* Managing API development project.
+* Building and operating infrastructure services (WAF, LB, containers) the DevOps way.
+* Building and maintaining tools (APIs, scripts, CLI tools).
 
 Security Engineer
 at First Data [Bratislava, 2016 - 2017]
