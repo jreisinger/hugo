@@ -90,7 +90,7 @@ Operating systems
 
 * Linux/UNIX: Debian, Ubuntu, RHEL, CentOS, Solaris, OpenBSD
 * virtualization/cointainers: KVM, Vagrant, VMware, VirtualBox, OpenStack,
-  Docker
+  Docker, Kubernetes
 
 Languages
 
