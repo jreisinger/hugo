@@ -27,7 +27,7 @@ at First Data [Bratislava, 2016 - 2017]
 * Implemented a testing environment using VirtualBox, Vagrant, Ansible.
 
 Sr. Linux Systems Specialist
-at Eset [Bratislava, 2015 - 2016]
+at [Eset](https://www.eset.com/) [Bratislava, 2015 - 2016]
 
 * Administering Linux (Debian/Ubuntu) servers and services running on top of
   them (ex.  MySQL, Postfix).
@@ -35,7 +35,7 @@ at Eset [Bratislava, 2015 - 2016]
   patterns like infrastructure as code, automated testing.
 
 System and Network Administrator
-at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
+at [Institute of Science and Technology Austria](https://ist.ac.at/) [Vienna, 2013 - 2015]
 
 * Taking care of Linux based infrastructure (email system, web servers, file
   servers, DNS) and networking.
@@ -53,7 +53,7 @@ at Kedros [Bratislava, 2009 - 2011]
 * Project delivery management.
 
 IT Auditor
-at Slovak Telekom [Bratislava, 2004 - 2006, 2011 - 2013]
+at [Slovak Telekom](https://www.telekom.sk/) [Bratislava, 2004 - 2006, 2011 - 2013]
 
 * Performing audits in IT, networking and IT security areas (Internet facing
   applications security, PKI review, Security of remote access, Patch
