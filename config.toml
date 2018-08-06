@@ -35,7 +35,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[params.social]]
     name = "Blog"
     weight = 2
-    url  = "https://github.com/jreisinger/blog"
+    url  = "https://jreisinger.github.io/blog/"
 [[params.social]]
     name = "Wiki"
     weight = 3
@@ -62,7 +62,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 #     name = "Links"
 #     weight = 3
 #     url  = "/links/"
-[[menu.main]]
-    name = "Posts"
-    weight = 4
-    url  = "/posts/"
+# [[menu.main]]
+#     name = "Posts"
+#     weight = 4
+#     url  = "/posts/"
