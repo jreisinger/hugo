@@ -33,7 +33,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 1
     url = "https://github.com/jreisinger/"
 [[params.social]]
-    name = "Blog"
+    name = "Notes"
     weight = 2
     url  = "https://jreisinger.github.io/notes/"
 [[params.social]]
