@@ -1,7 +1,7 @@
 ---
 title: "Generate Random File"
 date: 2014-03-20
-draft: true
+draft: false
 tags: [dd, linux]
 categories: [os]
 ---
