@@ -18,7 +18,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     #avatarurl = "images/avatar.jpeg" # Contain the path of the optionnal avatar in the static folder.
     #footercontent = "Enter a text here." # Add footer content
 
-    disqusShortname = "jreisinger" # Enable or disable Disqus
+    #disqusShortname = "" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
