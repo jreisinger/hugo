@@ -83,7 +83,7 @@ Bilingual high-school, Slovak - Italian [1993 - 1998]
 
 ### Technologies and Tools
 
-(I have used the following stuff professionally)
+(I have used the following stuff *professionally*)
 
 Operating systems
 
@@ -114,7 +114,7 @@ Various
 * documentation: MediaWiki, Confluence, MoinMoin, Hugo
 * tickets, bugs and projects: RT, Jira, Redmine, Remedy, GitLab
 * security: nmap, tcpdump, Wireshark, OSSEC, Metasploit
-* VCS, CI/CD: git, GitHub, GitLab, Travis
+* VCS, CI/CD: git, GitHub, GitLab, TravisCI
 * chatops: Slack
 
 [jreisinger.github.io](http://jreisinger.github.io) | <jozef.reisinger@gmail.com> | +421 948 525 610
