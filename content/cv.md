@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-I have been doing IT related stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** and IT **security**. I tend to specialize in **automation** and tools building. I have touched several infrastructures and written quite a few scripts or **programs**.  I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at managing smaller projects and teams. I can **communicate** well with technical and non-technical folks. 
+I have been doing IT related stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** and IT **security**. I tend to specialize in automation and tools building. I have touched several infrastructures and written quite a few scripts or **programs**.  I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at managing smaller projects and teams. I can **communicate** well with technical and non-technical folks. 
 
 ### Selected employment history
 
