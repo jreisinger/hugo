@@ -1,9 +1,9 @@
-Source files and [Hugo](https://gohugo.io/) stuff for https://github.com/jreisinger/jreisinger.github.io.
+`content` and Hugo stuff for https://github.com/jreisinger/jreisinger.github.io.
 
 Usual workflow
 
-* Modify `content` or `config.toml` (check locally - `hugo server`)
-* `./publish.sh`
+1) Modify `content` (check locally - `hugo server`)
+2) `./publish.sh`
 
 `public` is a submodule pointing to https://github.com/jreisinger/jreisinger.github.io. See `.gitmodules`.
 
