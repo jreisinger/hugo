@@ -2,7 +2,11 @@
 title: "About"
 ---
 
-I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I try to be nice to people.
+I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I try to be nice to people. I like sports, books and languages.
+
+Languages I can speak: Slovak/Czech, Italian, English, Bash, Perl, Python.
+
+Languages I want to learn: Go, Python, C, JavaScript, German.
 
 Some of my (free time) software projects:
 
