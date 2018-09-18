@@ -4,24 +4,23 @@ title: "About"
 
 I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I try to be nice to people. I like sports, books and languages.
 
-Subjective assesment of selected skills of mine:
+A subjective assessment of selected skills of mine:
 
 ```
-  beginner--+   +--intermediate
-            |   |    +--expert
-            |   |    |
-            v   v    v
-Italian     +++++++
-Perl        ++++++
-Linux       +++++
-Bash        +++++
-People      ++++
-DevOps      +++
-Python      +++
-Docker      ++
-Go          +
-Kubernetes  +
-Prometheus  +
+  beginner--+     +--intermediate
+            |     |     +--expert
+            |     |     |
+            v     v     v
+Linux       |+++++|+    |
+
+Italian     |+++++|++   |
+Perl        |+++++|+    |
+Bash        |+++++|+    |
+Python      |++++ |     |
+Go          |++   |     |
+
+People      |++++ |     |
+DevOps      |++++ |     |
 ```
 
 Some of my (free time) software projects:
