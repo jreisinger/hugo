@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Jozef Reisinger" # Author's name.
-    info = "Human" # Author's job title or info.
+    info = "Human being" # Author's job title or info.
     description = "Jozef Reisinger's home page" # Site description.
     keywords = "Linux,programming,security,sysadmin,devops,personal" # Site keywords.
     #avatarurl = "images/avatar.jpeg" # Contain the path of the optionnal avatar in the static folder.
