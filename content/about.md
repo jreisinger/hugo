@@ -14,13 +14,14 @@ A subjective assessment of selected skills of mine:
 Linux       |+++++|+    |
 
 Italian     |+++++|++   |
-Perl        |+++++|+    |
+Perl        |+++++|++   |
 Bash        |+++++|+    |
 Python      |++++ |     |
-Go          |++   |     |
+Go          |+++  |     |
 
+Sysadmin    |+++++|+    |
+DevOps      |+++++|     |
 People      |++++ |     |
-DevOps      |++++ |     |
 ```
 
 Some of my (free time) software projects:
