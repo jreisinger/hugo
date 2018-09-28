@@ -4,6 +4,8 @@ title: "About"
 
 I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I try to be nice to people. I like sports, books and languages.
 
+I log some of the technical activities I [have done](https://github.com/jreisinger/have-done).
+
 A subjective assessment of selected skills of mine:
 
 ```
