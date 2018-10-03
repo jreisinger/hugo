@@ -16,6 +16,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     description = "Jozef Reisinger's home page" # Site description.
     keywords = "Linux,programming,security,sysadmin,devops,personal" # Site keywords.
     #avatarurl = "images/avatar.jpeg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "img/go.png"
     #footercontent = "Enter a text here." # Add footer content
 
     #disqusShortname = "" # Enable or disable Disqus
