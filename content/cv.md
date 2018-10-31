@@ -78,7 +78,7 @@ Operating systems
 
 Languages
 
-* artificial: [Perl](https://www.perl.org/), Bash, Python
+* artificial: [Perl](https://www.perl.org/), Bash, Python, Go (Golang)
 * natural: English, Italian, Czech, Slovak
 
 Networking
