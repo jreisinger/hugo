@@ -14,6 +14,7 @@ Some of my (free time) software projects:
 
 Pearls I found on the Internet:
 
+- [Seven stages of a Go programmer](https://gist.github.com/lestrrat/689e1fd0ec913582a733c446a041b0e4)
 - [The saddest phone in Berlin](http://perlmonks.org/?node_id=324763)
 - [How to daemonize a process](http://world.std.com/~swmcd/steven/tech/daemon.html)
 - [Larry Wall on Perl, religion, and...](https://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
