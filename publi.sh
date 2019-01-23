@@ -18,7 +18,7 @@ cd $PUBLIC
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="rebuilding public site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
@@ -31,5 +31,5 @@ git push origin master
 cd -
 
 git add .
-git commit -m "deploy new stuff"
+git commit -m "putting new stuff to source files"
 git push
