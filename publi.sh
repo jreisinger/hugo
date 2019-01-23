@@ -6,30 +6,24 @@
 
 PUBLIC="$HOME/git/hub/jreisinger.github.io"
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-
-# Build the project.
+echo -e "\033[0;32mBulding web pages...\033[0m"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+
+echo -e "\033[0;32mAdding stuff to repo jreisinger.github.io ...\033[0m"
 rsync public/* $PUBLIC/
-
-# Go To Public folder
 cd $PUBLIC
-# Add changes to git.
 git add .
-
-# Commit changes.
 msg="rebuilding public site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
 git commit -m "$msg"
-
-# Push source and build repos.
 git push origin master
 
 # Come back to the source
 cd -
 
+echo -e "\033[0;32mAdding stuff to repo hugo ...\033[0m"
 git add .
-git commit -m "putting new stuff to source files"
+git commit -m "$msg"
 git push
