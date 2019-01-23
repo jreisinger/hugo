@@ -5,7 +5,7 @@ Usual workflow
 1) Modify `content` (or `config.toml`) 
 2) `./publish.sh`
 
-`public` is a submodule pointing to https://github.com/jreisinger/jreisinger.github.io. See `.gitmodules`.
+~~`public` is a submodule pointing to https://github.com/jreisinger/jreisinger.github.io. See `.gitmodules`.~~
 
 More
 
