@@ -6,7 +6,7 @@
 
 PUBLIC="$HOME/git/hub/jreisinger.github.io"
 
-echo -e "\033[0;32mBulding web pages...\033[0m"
+echo -e "\033[0;32mBulding web pages ...\033[0m"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 echo -e "\033[0;32mAdding stuff to repo jreisinger.github.io ...\033[0m"
@@ -20,10 +20,8 @@ fi
 git commit -m "$msg"
 git push origin master
 
-# Come back to the source
-cd -
-
 echo -e "\033[0;32mAdding stuff to repo hugo ...\033[0m"
+cd - # come back to the source
 git add .
 git commit -m "$msg"
 git push
