@@ -14,13 +14,13 @@ function add_to_git() {
     git push origin master
 }
 
-echo -e "\033[0;32mBulding web pages ...\033[0m"
+echo -e "\033[0;32mRunning hugo ...\033[0m"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-echo -e "\033[0;32mRsync to repo jreisinger.github.io ...\033[0m"
+echo -e "\033[0;32mRsync + git to jreisinger.github.io ...\033[0m"
 (cd $PUBLIC && git pull)
 rsync -az public/* $PUBLIC/
 (cd $PUBLIC && add_to_git $GITMSG)
 
-echo -e "\033[0;32mAdding stuff to repo hugo (CWD) ...\033[0m"
+echo -e "\033[0;32mRunning git (CWD) ...\033[0m"
 add_to_git $GITMSG
