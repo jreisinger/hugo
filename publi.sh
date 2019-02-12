@@ -19,7 +19,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 echo -e "\033[0;32mAdding stuff to repo jreisinger.github.io ...\033[0m"
 (cd $PUBLIC && git pull)
-rsync public/* $PUBLIC/
+rsync -az public/* $PUBLIC/
 (cd $PUBLIC && add_to_git $GITMSG)
 
 echo -e "\033[0;32mAdding stuff to repo hugo (CWD) ...\033[0m"
