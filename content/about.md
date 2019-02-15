@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I log some of the activities I think [should do](https://github.com/jreisinger/should-do). I try to be nice to people. I like sports, books and languages.
+I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I log some of the technical activities I [should do](https://github.com/jreisinger/should-do). I try to be nice to people (it's not an easy task). I like sports, books and languages.
 
 Some of my (free time) software projects:
 
