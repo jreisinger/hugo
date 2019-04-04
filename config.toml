@@ -22,7 +22,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     #disqusShortname = "" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
+    hideCredits = true
     hideCopyright = true
 
     # Custom CSS
