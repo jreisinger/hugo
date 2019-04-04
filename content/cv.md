@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-I have been doing IT stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** (SRE) and IT **security**. I have touched several infrastructures and done quite some **programming** or scripting. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at **managing** smaller projects and teams. I can communicate well with technical and non-technical folks.
+I have been doing IT stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** (SRE) and IT **security**. I have touched several infrastructures and done quite some **programming** or scripting. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at **managing** smaller projects and teams.
 
 ### Selected employment history
 
@@ -40,7 +40,7 @@ at Kedros [Bratislava, 2009 - 2011]
 * Administered internal Linux (Debian) based infrastructure.
 * Setup and maintained testing environments (Solaris, RHEL, Tomcat, Oracle) in collaboration with developers and testers.
 * Wrote automation scripts in Unix shell and Perl.
-* Managed projects deliverables.
+* Managed projects' deliverables.
 
 IT Auditor
 at Slovak Telekom [Bratislava, 2004 - 2006, 2011 - 2013]
