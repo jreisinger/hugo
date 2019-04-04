@@ -1,5 +1,5 @@
 baseURL = "https://jreisinger.github.io/" # Hostname (and path) to the root.
-title = "$USER" # Site title.
+title = "$HOME" # Site title.
 theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code.
 

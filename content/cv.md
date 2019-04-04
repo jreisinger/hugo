@@ -9,7 +9,7 @@ I have been doing IT stuff for companies of varied sizes and types for **10+ yea
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
-* Building and operating infrastructure services (WAF, LB, containers) the DevOps way.
+* Building and operating security products (WAFs, load balancers, containers) the DevOps way.
 * Building and maintaining tools (APIs, scripts, CLI tools).
 * Managing projects/products.
 
