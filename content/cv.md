@@ -7,7 +7,7 @@ I have been doing IT stuff for companies of varied sizes and types for **10+ yea
 ### Selected employment history
 
 Sr. Security Engineer
-at DT Pan-Net [Bratislava, 2017 - present]
+at Deutsche Telekom Pan-Net [Bratislava, 2017 - present]
 
 * Building and operating security products (WAFs, load balancers, containers) the DevOps way.
 * Building and maintaining tools (APIs, scripts, CLI tools).
