@@ -95,7 +95,7 @@ Various
 * HA: Pacemaker, DRBD, HAProxy, keepalived
 * hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
 * backups: Bacula, ZFS, rsnapshot, rsync
-* editors: Vi(m), Vistual Studio Code, Atom, Notepad++
+* editors: Vi(m), Visual Studio Code, Atom, Notepad++
 * documentation: MediaWiki, Confluence, MoinMoin, Hugo
 * tickets, bugs and projects: RT, Jira, Redmine, Remedy, GitLab
 * security: nmap, tcpdump, Wireshark, OSSEC, Metasploit
