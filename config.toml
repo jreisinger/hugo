@@ -26,12 +26,15 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     hideCopyright = true
 
     # Custom CSS
-	custom_css = []
+    custom_css = []
 
 # Social links
 [[params.social]]
     name = "Notes"
     url  = "https://jreisinger.github.io/notes/"
+[[params.social]]
+    name = "Blog"
+    url  = "http://jreisinger.blogspot.sk/"
 [[params.social]]
     name = "Code"
     url = "https://github.com/jreisinger/"
