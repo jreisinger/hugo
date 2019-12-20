@@ -31,7 +31,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 # Social links
 [[params.social]]
     name = "Blog"
-    url  = "https://jreisinger.github.io/blog/"
+    url  = "https://http://jreisinger.blogspot.com/"
 [[params.social]]
     name = "Code"
     url = "https://github.com/jreisinger/"
