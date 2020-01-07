@@ -6,6 +6,8 @@ I have been doing IT stuff for companies of varied sizes and types for **10+ yea
 
 ### Selected employment history
 
+> There is a huge difference between having ten years of experience and having one year of experience repeated ten times. Ten years spent working on different projects, with different technologies, and for different companies is different from ten years working for the same company, on the same project, and with the same people and same technology. -- The Software Craftsman
+
 Sr. Security Engineer
 at Deutsche Telekom Pan-Net [Bratislava, 2017 - present]
 
