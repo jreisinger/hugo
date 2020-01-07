@@ -4,9 +4,9 @@ title: "CV"
 
 I have been doing IT stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** (SRE) and IT **security**. I have touched several infrastructures and done quite some **programming** or scripting. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at **managing** smaller projects and teams.
 
-## Selected employment history
-
 > There is a huge difference between having ten years of experience and having one year of experience repeated ten times. Ten years spent working on different projects, with different technologies, and for different companies is different from ten years working for the same company, on the same project, and with the same people and same technology. -- The Software Craftsman
+
+## Selected employment history
 
 Sr. Security Engineer
 at Deutsche Telekom Pan-Net [Bratislava, 2017 - present]
@@ -51,25 +51,7 @@ at Slovak Telekom [Bratislava, 2004 - 2006, 2011 - 2013]
 * Administered internal lab consisting of Linux servers and Cisco networking devices.
 * Managed small (up to 4 people) audit teams.
 
-## Certificates and Formal Education
-
-LPIC-2: Linux Professional Institute Certification - Advanced Level Administration [2012 - 2017]
-
-CCENT: Cisco Certified Entry Networking Technician [2013 - 2016]
-
-CISSP: Certified Information Systems Security Professional [2011 - 2014]
-
-CCNA: Cisco Certified Network Associate [2006 - 2009]
-
-Cisco Networking Academy - Four semester study in computer systems networking and telecommunications [2005 - 2006]
-
-University of Economics [1998 - 2004]
-
-Bilingual high-school, Slovak - Italian [1993 - 1998]
-
-## Technologies and Tools
-
-(I have used the following stuff *professionally*)
+## Technologies used professionally
 
 Operating systems
 
@@ -101,5 +83,15 @@ Various
 * security: nmap, tcpdump, Wireshark, OSSEC, Metasploit
 * VCS, CI/CD: git, GitHub, GitLab, TravisCI
 * chatops: Slack
+
+## Certificates and Formal Education
+
+* LPIC-2: Linux Professional Institute Certification - Advanced Level Administration [2012 - 2017]
+* CCENT: Cisco Certified Entry Networking Technician [2013 - 2016]
+* CISSP: Certified Information Systems Security Professional [2011 - 2014]
+* CCNA: Cisco Certified Network Associate [2006 - 2009]
+* Cisco Networking Academy - Four semester study in computer systems networking and telecommunications [2005 - 2006]
+* University of Economics [1998 - 2004]
+* Bilingual high-school, Slovak - Italian [1993 - 1998]
 
 [jreisinger.github.io](http://jreisinger.github.io) | <jozef.reisinger@gmail.com> | +421 948 525 610
