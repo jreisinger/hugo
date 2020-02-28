@@ -73,7 +73,7 @@ Various
 * configuration, orchestration: Ansible, OpenStack Heat
 * monitoring: Nagios, Icinga, Zabbix, Prometheus
 * big data and logs: Splunk, syslog-ng, Graylog, Grafana
-* databases: MySQL, Oracle
+* databases: MySQL, PostgreSQL, Oracle
 * HA: Pacemaker, DRBD, HAProxy, keepalived
 * hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
 * backups: Bacula, ZFS, rsnapshot, rsync
