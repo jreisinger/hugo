@@ -12,7 +12,7 @@ Sr. Security Engineer
 at Deutsche Telekom [Pan-Net](https://pan-net.cloud/) [Bratislava, 2017 - present]
 
 * Building and operating security products (WAFs, SIEM, load balancers) the DevOps way.
-* Building and maintaining tools (APIs, scripts, CLI tools) and supporting technologies (Docker containers, Kubernetes objects, Ansible playbooks).
+* Building and maintaining tools (scripts, CLI tools) and supporting technologies (Ansible playbooks, Docker containers, Kubernetes objects).
 * Managing projects/products.
 
 Security Engineer
