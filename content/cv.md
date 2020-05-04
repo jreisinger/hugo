@@ -11,8 +11,9 @@ I have been doing IT stuff for companies of varied sizes and types for **10+ yea
 Sr. Security Engineer
 at Deutsche Telekom [Pan-Net](https://pan-net.cloud/) [Bratislava, 2017 - present]
 
-* Building and maintaining security products (WAF, SIEM, log mngt., ~~load balancers~~) for both internal and external use.
-* Writing scripts, playbooks, tools and manifests.
+* Building and operating security products (WAF, SIEM, log mngt.) for both internal and external use.
+* Developing scripts, tools and playbooks using Bash, Python, Go and Ansible.
+* Maintaining Dockerfiles, Kubernetes manifests and CI/CD pipelines.
 * Managing projects/products.
 
 Security Engineer
