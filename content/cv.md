@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-I have been doing IT stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** (SRE) and IT **security**. I have touched several infrastructures and done quite some **programming** or scripting. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at **managing** smaller projects and teams.
+I have been doing IT stuff for companies of varied sizes and types for **10+ years**. My experience is mainly in **systems administration** (or [SRE](https://reisinge.net/notes/mngt/sre)) and IT **security**. I have touched several infrastructures and done quite some **programming** or scripting. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at **managing** smaller projects and teams.
 
 > There is a huge difference between having ten years of experience and having one year of experience repeated ten times. -- The Software Craftsman
 
@@ -11,8 +11,8 @@ I have been doing IT stuff for companies of varied sizes and types for **10+ yea
 Sr. Security Engineer
 at Deutsche Telekom [Pan-Net](https://pan-net.cloud/) [Bratislava, 2017 - present]
 
-* Building and operating security products (WAFs, SIEM, load balancers) the DevOps way.
-* Building and maintaining tools (scripts, CLI tools) and supporting technologies (Ansible playbooks, Docker containers, Kubernetes objects).
+* Building and maintaining security products (WAF, SIEM, log mngt., ~~load balancers~~) for both internal and external use.
+* Writing scripts, playbooks, tools and manifests.
 * Managing projects/products.
 
 Security Engineer
